@@ -4,6 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
+<img src="https://raw.githubusercontent.com/nythrox/geeklib/master/github/screenshots/libgeek.png">
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
